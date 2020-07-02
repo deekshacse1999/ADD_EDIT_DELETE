@@ -1,0 +1,30 @@
+.form
+{
+	border: 2px solid black;
+	width: 40%;
+	padding: 18px 18px;
+	margin-left: 30%;
+}
+.input
+{
+	padding: 4px 4px;
+	border-radius: 4px;
+}
+.button
+{
+	margin-left: 16px;
+	padding: 8px 8px;
+}
+.p
+{
+	border: 1px solid black;
+}
+.box
+{
+	border: 2px solid black;
+	padding-left: 10%;
+	width: 40%;
+	margin-left: 26%;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
